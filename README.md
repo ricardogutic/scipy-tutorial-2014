@@ -27,3 +27,5 @@ Duration
 --------
 
 The tutorial will cover four hours
+
+I am modifying this line ;) (RicardoG 18/06/2014)
